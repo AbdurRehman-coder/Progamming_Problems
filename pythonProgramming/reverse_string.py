@@ -5,7 +5,7 @@ class StringProblem:
     #This method will reverse the string
     # e.g: 'Hello' into 'olleH'
     def reverseString(sefl, strValue):
-        # empty variable to store the returned reverst char
+        # empty variable to store the returned reverse char
         reversed = ''
         end = len(strValue) -1; # Length of that String
         # Run this loop until it reach into 0
